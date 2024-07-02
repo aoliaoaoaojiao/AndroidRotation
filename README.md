@@ -23,7 +23,7 @@ adb shell CLASSPATH=/data/local/tmp/rotation.jar app_process / com.aoliaoaojiao.
 
 4.退出
 
-退出又两种方法：
+退出有两种方法：
 
 - ctrl + c
 - 命令行中输入 exit
